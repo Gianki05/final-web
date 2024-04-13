@@ -1,0 +1,23 @@
+/* Fuentes */
+@font-face {
+    font-family: Godzilla;
+    src: url(../FONTS/Godzilla.ttf);
+}
+
+
+@font-face {
+    font-family: governor;
+    src: url(../FONTS/governor.ttf);
+}
+
+@font-face {
+    font-family: governorcond;
+    src: url(../FONTS/governorcond.ttf);
+}
+
+@font-face {
+    font-family: mkda;
+    src: url(../FONTS/mkda.ttf);
+
+}
+

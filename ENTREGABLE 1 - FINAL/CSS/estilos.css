@@ -1,0 +1,24 @@
+@import url(letras.css);
+@import url(logo.css);
+@import url(musicsubmenú.css);
+@import url(musiccontenido.css);
+@import url(escuchado.css);
+@import url(escuchado2.css);
+@import url(imagen.css);
+@import url(footer.css);
+
+html,body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/texture1.jpeg);
+    width: 100vw;
+    min-height: 70vw;
+
+}
+
+.contenedor{
+    max-width: 1200px;
+    margin: auto;
+}
+
+

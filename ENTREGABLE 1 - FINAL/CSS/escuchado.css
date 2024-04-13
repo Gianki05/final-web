@@ -1,0 +1,33 @@
+.aside1 {
+    background-color: aquamarine;
+    width: 300px;
+    margin-top: -57%; 
+    margin-left: 80%; 
+    text-align: center;
+    border-radius: 50px;
+    border: 5px solid black; 
+    padding: 10px; 
+    box-shadow: 2px 2px 25px coral;
+    font-family: Georgia, Times New Roman, Times, serif;
+}
+
+a#selección {
+    color: blue; 
+    transition: color 0.3s;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+a#selección:hover {
+    color: black; 
+    font-family: cursive;
+}
+
+@media screen and (max-width: 800px) {
+    aside {
+        width: 100%; 
+    }
+}
+
+
+
